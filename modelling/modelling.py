@@ -7,7 +7,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import sigmoid_kernel
 import joblib
 import re
-
 # %% Load Data
 fulldata = pd.read_csv('C:/SEMESTER 5/STKI/Tugas 3 STKI/data/fulldata.csv')
 anime = pd.read_csv('C:/SEMESTER 5/STKI/Tugas 3 STKI/data/anime.csv')
