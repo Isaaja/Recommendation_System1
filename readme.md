@@ -20,5 +20,5 @@
    Setelah model selesai dibuat dan diuji, langkah terakhir adalah mengintegrasikan model tersebut ke dalam sebuah aplikasi.  
    - Aplikasi dibuat menggunakan **Streamlit**, framework Python untuk membangun aplikasi berbasis web dengan cepat dan mudah.  
    - Gunakan file **`recommendationApp.py`** untuk mengimplementasikan aplikasi rekomendasi anime Anda. Aplikasi ini akan memanfaatkan model yang sudah dilatih untuk memberikan rekomendasi anime berdasarkan input pengguna.  
-
-Dengan mengikuti alur ini, Anda akan dapat membangun sebuah sistem rekomendasi anime yang lengkap, mulai dari pengolahan data hingga penerapan model ke dalam aplikasi yang interaktif! 😊
+5. **Dokumentasi**
+   Semua penjelasan tentang dataset, alur dari project ini ada di File notebook **`Dokumentasi Project/dokumentasi.ipynb`**.
